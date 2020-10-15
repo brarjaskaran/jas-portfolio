@@ -1,0 +1,37 @@
+$primary-color: #fcfcfc;
+$secondary-color: #5d576b;
+$button-color: #99e1d9;
+$pink-color: #f7567c;
+
+.header {
+  margin-top: 10px;
+  margin: 5px 40px 0px 40px;
+}
+
+.header__header {
+  display: flex;
+  justify-content: space-between;
+  background-color: $primary-color;
+  border-bottom: 1px solid $secondary-color;
+}
+
+.header__menuList {
+  display: flex;
+}
+
+.header__link {
+  text-decoration: none;
+  margin-left: 15px;
+  color: $secondary-color;
+  font-size: 14px;
+}
+
+.header__name {
+  font-weight: 900;
+  font-size: 15px;
+  color: $pink-color;
+}
+
+.header__link__logo {
+  text-decoration: none;
+}

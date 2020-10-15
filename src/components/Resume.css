@@ -1,0 +1,62 @@
+.resume {
+  margin: 0px 40px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.resume__details {
+  color: #5d576b;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.resume__details > h2 {
+  padding: 5px;
+  font-size: 30px;
+}
+
+.resume__details > h4 {
+  font-size: large;
+  padding: 5px;
+}
+
+.resume__details > p {
+  text-align: center;
+  padding: 10px;
+}
+
+.resume__photo {
+}
+
+.resume__photo > img {
+  height: 200px;
+  border-radius: 999px;
+}
+
+.resume__qualities {
+  background-color: lightblue;
+  color: #5d576b;
+  margin: 20px;
+  border-radius: 2px;
+}
+
+hr {
+  border-top: 4px solid rgb(18, 13, 13);
+  width: 100px;
+}
+
+.resume__qualities > hr {
+  border-top: 1px solid rgb(255, 255, 255);
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.resume__education {
+  margin: 20px;
+}
+
+.resume__experience {
+  margin: 20px;
+}

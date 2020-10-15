@@ -1,0 +1,17 @@
+.experience {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.experience__time {
+  margin: 20px;
+}
+
+.experience__description {
+  margin: 20px;
+  text-align: justify;
+}
+
+.experience__description > p {
+  margin-top: 10px;
+}

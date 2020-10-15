@@ -1,0 +1,17 @@
+.education {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.education__time {
+  margin: 20px;
+}
+
+.education__description {
+  margin: 20px;
+  text-align: justify;
+}
+
+.education__description > p {
+  margin-top: 10px;
+}
