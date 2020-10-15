@@ -80,8 +80,8 @@ function Resume() {
                     />
                 </div>
                 <div className="resume__skills">
-                    <h2>Skills</h2>
-                    <Skills/>
+                    {/* <h2>Skills</h2> */}
+                    {/* <Skills/> */}
                 </div>
             </div>
 

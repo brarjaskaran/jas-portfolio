@@ -7,10 +7,10 @@ function Header() {
              <div className="header__header">
                 <Link className="header__link__logo"  to="/"><h3 className="header__name">Jaskaran's Portfolio</h3></Link>
                 <div className="header__menuList">
-                  <Link className="header__link" to="/resume"><h3>Resume</h3></Link>  
-                  <Link className="header__link" to="/projects"><h3>Projects</h3></Link>  
-                  <Link className="header__link" to="/contact"><h3>Contact</h3></Link>  
-                  {/* <Link className="header__link" to="/about"><h3>About</h3></Link>   */}
+                  <Link className="header__link" to="/resume"><h2>Resume</h2></Link>  
+                  <Link className="header__link" to="/projects"><h2>Projects</h2></Link>  
+                  <Link className="header__link" to="/contact"><h2>Contact</h2></Link>  
+                  {/* <Link className="header__link" to="/about"><h2>About</h2></Link>   */}
                     
                     
                     
