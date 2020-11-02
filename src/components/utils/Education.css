@@ -15,3 +15,12 @@
 .education__description > p {
   margin-top: 10px;
 }
+
+@media(max-width: 700px){
+
+.education__description > p {
+    margin-top: 10px;
+    text-align: start;
+}
+
+}

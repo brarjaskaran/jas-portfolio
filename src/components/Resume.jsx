@@ -18,7 +18,7 @@ function Resume() {
                     <h4 >Frontend Web Developer</h4>
                     <hr/>
                     <p>
-                    A motivated and enthusiastic graduate with a master’s in Software
+                    A motivated and enthusiastic graduate with a masters in Software
                     Engineering seeking a position to utilize my skills, particularly
                     in the area of web development. Skilled in using various software
                     programs such as <strong> MongoDB, Express, React.js and Node.js</strong>   Looking for a suitable
@@ -45,13 +45,13 @@ function Resume() {
                         startYear={2012}
                         endYear={2016}
                         schoolName={"GNDEC, Ludhiana, India"}
-                        schoolDescription={"Batchelor of Information Technology"}
+                        schoolDescription={"Bachelor of Information Technology"}
                         />
                     <Education
                         startYear={2018}
                         endYear={2020}
                         schoolName={"Federation University, Adelaide"}
-                        schoolDescription={"Masters of Software Engineering"}
+                        schoolDescription={"Masters in Software Engineering"}
                         />
                 </div>
        

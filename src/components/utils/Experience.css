@@ -9,9 +9,21 @@
 
 .experience__description {
   margin: 20px;
-  text-align: justify;
+  text-align: start;
 }
 
 .experience__description > p {
   margin-top: 10px;
 }
+
+@media(max-width: 700px) {
+
+.experience__description > p {
+
+        margin-top: 10px;
+        text-align: start;
+    }
+
+}
+
+

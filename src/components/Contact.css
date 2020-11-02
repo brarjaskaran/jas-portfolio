@@ -14,7 +14,7 @@
 .contact > p {
   color: #5d576b;
   font-size: 30px;
-  width: 900px;
+  width: auto;
   margin-top: 20px;
   text-align: center;
 }
@@ -31,10 +31,42 @@
 .contact__email {
   margin-top: 20px;
   display: flex;
+
 }
+
 .contact__email > h2 {
   font-size: 40px;
 
   margin-left: 20px;
   color: cornflowerblue;
+}
+
+@media(max-width: 700px) {
+.contact > h2 {
+    color: #5d576b;
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+
+
+.contact__phone {
+    margin-top: 30px;
+    display: flex;
+}
+
+.contact__phone > h2 {
+    font-size: 1rem;
+    margin-left: 10px;
+    color: cornflowerblue;
+}
+
+.contact__email > h2 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+
+}
+
+
+
 }

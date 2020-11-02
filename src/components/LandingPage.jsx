@@ -24,7 +24,7 @@ function LandingPage() {
                     <h1>Fullstack Web Developer</h1>
                     <hr />
 
-                    <p>HTML/CSS | MongoDB | Express | React | Node.js | Firebase </p>
+                    <p>HTML/CSS</p> <p> MongoDB </p> <p>Express </p> <p>React  </p><p>Node.js </p><p> Firebase </p>
                 </div>
                 <div className="landingPage__socialLinks">
                     <a target="_blank"  rel="noopener noreferrer" href="https://www.linkedin.com/in/jaskaran-brar-605992b9/"><LinkedInIcon color="primary" fontSize="large" /></a>

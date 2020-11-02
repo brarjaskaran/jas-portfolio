@@ -7,7 +7,7 @@ function Contact() {
             <h2>Jaskaran Brar</h2>
             <img src="" alt=""/>
             <p>
-              A motivated and enthusiastic graduate with a master’s in Software
+              A motivated and enthusiastic graduate with a masters in Software
                     Engineering seeking a position to utilize my skills, particularly
                     in the area of web development. Skilled in using various software
                     programs such as <strong> MongoDB, Express, React.js and Node.js</strong>   Looking for a suitable
